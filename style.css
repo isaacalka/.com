@@ -1,0 +1,43 @@
+html{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+    border-radius: 5%;
+
+}
+p{
+    text-transform: capitalize;
+    color: aliceblue;
+    background-color: teal;
+    border-radius: 5px;
+    font-size: 40px;
+}
+h1{
+    text-transform: uppercase;
+    color: teal;
+    font-size: 60px;
+}
+div{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+    text-align: center; 
+}
+span{
+    color: yellowgreen;
+    font-size: smaller;
+}
+button{
+    font-size: larger;
+    border-radius: 10px;
+    background-color: green;
+    color: black;
+    padding: 20px;
+
+}
+footer{
+    background-color: white;
+    color: navy;
+}
