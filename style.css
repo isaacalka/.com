@@ -30,11 +30,13 @@ span{
     font-size: smaller;
 }
 button{
-    font-size: larger;
+   font-size: larger;
+    font-weight: 600;
     border-radius: 10px;
     background-color: green;
     color: black;
-    padding: 20px;
+    padding: 30px;
+    margin: 20px;
 
 }
 footer{
